@@ -137,4 +137,3 @@ public static void main(String[] args){
 new puzzle();  
 }//end of main  
   
-}//end of clas
